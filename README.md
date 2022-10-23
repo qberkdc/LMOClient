@@ -1,6 +1,5 @@
-# SAD Client
+# LMO Client v5.2
 ```
-[>] Legal-Master-Omae.SADV
 [+] How to use ?
 
 [»] extract the cstrike inside the zip to xash
